@@ -7,11 +7,11 @@ Course: https://www.coursera.org/learn/google-data-analytics-capstone
 This capstone project is the final project of my Google Data Analytics Professional Certificate course. In this case study I will analyze a public dataset for a fictitious company provided by the course. For this analysis, I will use the Python programming language, python has an extensive library ecosystem for robust analysis tools and data visualization. To answer the key business questions, I will follow the steps of the data analysis process: **Ask**, **Prepare**, **Process**, **Analyze**, **Share**, and **Act**.
 
 **Quick Links**:
--   [Data Combining]()
--   [Data Cleaning,Transforming & Saving]()
--   [Data Exploration]()
--   [Data Analyzation]()
--   [Tableau Dashboard]()
+-   [Data Combining](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_data_combining.ipynb)
+-   [Data Exploration](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_cleaning_transforming_saving.ipynb)
+-   [Data Cleaning,Transforming & Saving](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_cleaning_transforming_saving.ipynb)
+-   [Data Analyzation](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_data_analyzation.ipynb)
+-   [Tableau Dashboard](https://public.tableau.com/app/profile/aftab.ahmad.khan7133/viz/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1)
 # Background
 Cyclistic is a fictional bike-share company based in **Chicago**. Cyclistic operates a fleet of  **5800** bicycles which can be accessed by 600 docking stations across Chicago. Bikes can be borrowed from one station and returned at any time to another station in the system. Cyclistic has three pricing plans for its customers.
 The majority of riders choose traditional bikes, with only 8% of riders using assistive options. In addition, cyclistic users are more likely to ride for leisure, but about **30%** use them to commute to work each day. Customers who purchase single-ride or full-day passes are referred to as **casual riders** and customers who purchased annual memberships are referred to as **Cyclistic's members**. Finance analysts have concluded that annual members are much more profitable than casual members.
@@ -134,9 +134,9 @@ The conclusion of the analysis involves deriving insights and recommending solut
 2)	I recommend offering Cyclistic members priority access during busy hours and discounted pricing during non-busy hours. This strategy will incentivize casual riders to apply for an annual membership, while emphasizing the benefits of membership, such as discounts during peak times like summer or weekends.
 3) 3	To enhance the rider experience and encourage engagement, I suggest developing a mobile application that integrates with incorporating features like real-time updates, maps, and route tracking and installing AI Digital Signage at busy stations for casual members. Additionally, implementing a frequent rider program with a point-based incentive system within the membership format will motivate riders to take more trips and earn rewards. This comprehensive approach will improve convenience, provide real-time information, and incentivize riders to increase their usage and loyalty to the bike-share service.
 ## Resources:
-Please find the complete Notebook available in my GitHub repository for access and to check detailed analysis with proper output details of the code . [Github Repositoy]()
+Please find the complete Notebook available in my GitHub repository for access and to check detailed analysis with proper output details of the code . [Github Repositoy](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_notebook.ipynb)
 
-For the dashboard, you can find it on my Tableau Public profile. [Tableau Dashboard]()
+For the dashboard, you can find it on my Tableau Public profile. [Tableau Dashboard](https://public.tableau.com/app/profile/aftab.ahmad.khan7133/viz/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1)
 
 
 Thank You,
