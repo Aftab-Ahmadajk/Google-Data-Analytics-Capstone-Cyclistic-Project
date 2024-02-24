@@ -11,7 +11,7 @@ This capstone project is the final project of my Google Data Analytics Professio
 -   [Data Exploration](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_cleaning_transforming_saving.ipynb)
 -   [Data Cleaning,Transforming & Saving](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_cleaning_transforming_saving.ipynb)
 -   [Data Analyzation](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_data_analyzation.ipynb)
--   [Tableau Dashboard](https://public.tableau.com/app/profile/aftab.ahmad.khan7133/viz/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1)
+-   [Tableau Dashboard]([https://public.tableau.com/app/profile/aftab.ahmad.khan7133/viz/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1](https://public.tableau.com/views/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
 # Background
 Cyclistic is a fictional bike-share company based in **Chicago**. Cyclistic operates a fleet of  **5800** bicycles which can be accessed by 600 docking stations across Chicago. Bikes can be borrowed from one station and returned at any time to another station in the system. Cyclistic has three pricing plans for its customers.
 The majority of riders choose traditional bikes, with only 8% of riders using assistive options. In addition, cyclistic users are more likely to ride for leisure, but about **30%** use them to commute to work each day. Customers who purchase single-ride or full-day passes are referred to as **casual riders** and customers who purchased annual memberships are referred to as **Cyclistic's members**. Finance analysts have concluded that annual members are much more profitable than casual members.
@@ -136,7 +136,7 @@ The conclusion of the analysis involves deriving insights and recommending solut
 ## Resources:
 Please find the complete Notebook available in my GitHub repository for access and to check detailed analysis with proper output details of the code . [Github Repositoy](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_notebook.ipynb)
 
-For the dashboard, you can find it on my Tableau Public profile. [Tableau Dashboard](https://public.tableau.com/app/profile/aftab.ahmad.khan7133/viz/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1)
+For the dashboard, you can find it on my Tableau Public profile. [Tableau Dashboard]([https://public.tableau.com/app/profile/aftab.ahmad.khan7133/viz/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1](https://public.tableau.com/views/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 Thank You,
