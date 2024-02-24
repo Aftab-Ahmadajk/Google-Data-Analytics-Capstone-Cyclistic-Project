@@ -144,7 +144,7 @@ Thank You,
 Aftab Ahmad
 
 
-Data Science Google Data Analytics Cyclistic Bike-Share  #Exploratory Data Analysis
+Thank you for reviewing the notebook. I would greatly appreciate your feedback and any suggestions you may have regarding this exploratory data analysis. Your input is valuable to me in further improving the analysis. Please feel free to share your thoughts by emailing me at aftabajk@gmail.com.
 
 
 
