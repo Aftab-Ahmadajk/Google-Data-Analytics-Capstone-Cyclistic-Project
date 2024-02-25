@@ -1,5 +1,5 @@
 # **Google Data Analytics Capstone: Cyclistic Case Study**
-![Alt Text](logo-1){: width="100px" height="100px"}
+![Alt Text](logo-1.png){: width="100px" height="100px"}
 ## Author:          Aftab Ahmad
 ## Date:            24 February, 2024
 ## Contact:         aftabajk@gmail.com
@@ -15,7 +15,7 @@ This capstone project is the final project of my Google Data Analytics Professio
 -   [Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 # Background
 Cyclistic is a fictional bike-share company based in **Chicago**. Cyclistic operates a fleet of  **5800** bicycles which can be accessed by 600 docking stations across Chicago. Bikes can be borrowed from one station and returned at any time to another station in the system. Cyclistic has three pricing plans for its customers.
-[![alt text](davy.png)](davy-1.png)
+[![alt text](davy-1.jpg)](davy-1.jpg)
 The majority of riders choose traditional bikes, with only 8% of riders using assistive options. In addition, cyclistic users are more likely to ride for leisure, but about **30%** use them to commute to work each day. Customers who purchase single-ride or full-day passes are referred to as **casual riders** and customers who purchased annual memberships are referred to as **Cyclistic's members**. Finance analysts have concluded that annual members are much more profitable than casual members.
 # Scenario
 I have completed the **Google Data Analytics Professional Certificate program** on Coursera. In this course, students learn in-demand skills that will make them job-ready in less than 6 months. Upon completion of this program, students are required to complete a data analysis case study to demonstrate the skills learned during this course. As a junior data analyst, I will follow the steps of the data analysis process as mentioned above and find out actionable insights for the stakeholders.
