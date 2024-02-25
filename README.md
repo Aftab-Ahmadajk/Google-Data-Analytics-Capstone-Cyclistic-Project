@@ -1,4 +1,4 @@
-                          <img src="logo-1.png" alt="Alt Text" width="100" height="100">
+                          ![Alt Text](logo-1.png){: width="100px" height="100px"}
 # **Google Data Analytics Capstone: Cyclistic Case Study** 
 ## Author:          Aftab Ahmad
 ## Date:            24 February, 2024
