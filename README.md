@@ -1,5 +1,5 @@
-# **Google Data Analytics Capstone: Cyclistic Case Study**
-![Alt Text](logo-1.png){: width="100px" height="100px"}
+# **Google Data Analytics Capstone: Cyclistic Case Study** 
+<img src="logo-1.png" alt="Alt Text" width="100" height="75">
 ## Author:          Aftab Ahmad
 ## Date:            24 February, 2024
 ## Contact:         aftabajk@gmail.com
