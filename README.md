@@ -10,7 +10,7 @@ This capstone project is the final project of my Google Data Analytics Professio
 -   [Data Combining](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_data_combining.ipynb)
 -   [Data Exploration](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_cleaning_transforming_saving.ipynb)
 -   [Data Cleaning,Transforming & Saving](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_cleaning_transforming_saving.ipynb)
--   [Data Analyzation](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_data_analyzation.ipynb)
+-   [Data Analysis](https://github.com/Aftab-Ahmadajk/Google-Data-Analytics-Capstone-Cyclistic-Project/blob/main/cyclistic_portfolio_data_analyzation.ipynb)
 -   [Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareDataAnalysisCapStoneProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 # Background
 Cyclistic is a fictional bike-share company based in **Chicago**. Cyclistic operates a fleet of  **5800** bicycles which can be accessed by 600 docking stations across Chicago. Bikes can be borrowed from one station and returned at any time to another station in the system. Cyclistic has three pricing plans for its customers.
