@@ -144,7 +144,6 @@ Thank You,
 
 Aftab Ahmad
 
-
 I would greatly appreciate your feedback and any suggestions you may have regarding this portfolio project. Your input is valuable to me in further improving the analysis. Please feel free to share your thoughts by emailing me at aftabajk@gmail.com or direct message on [Linkedin](https://www.linkedin.com/in/aftabajk/)
 
 
