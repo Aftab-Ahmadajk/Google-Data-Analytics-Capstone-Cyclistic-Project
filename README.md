@@ -129,7 +129,7 @@ Annual members have an average trip distance of 2.04 kilometers per trip, wherea
 - Summer (June – August) was the busiest season for both user types. Both road the most in August 2023, while least in the winter season (December – February) specifically in February 2023.
 # **``Share``**
 I have conducted data analysis and extracted valuable insights. To meet stakeholder requirements, I have developed effective data visualizations that connect objectives with the data, enabling compelling data storytelling. I have created a comprehensive dashboard that presents all the data in a unified view, empowering users to make well-informed decisions.
-![Sample Image](./images/Dashboard_101.png)
+![Sample Image](./images/Dashboard_101.png) 
 
 # **``Act``**
 The conclusion of the analysis involves deriving insights and recommending solutions based on the problem statement and results. It is not always the analyst who makes the final decision, but rather the role may involve facilitating stakeholders or higher management by providing recommendations informed by the findings. This enables data-driven decision-making at the organizational level. Following are some recommendations based on my analysis.
