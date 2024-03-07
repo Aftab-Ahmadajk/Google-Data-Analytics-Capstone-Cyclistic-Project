@@ -20,7 +20,7 @@ The majority of riders choose traditional bikes, with only 8% of riders using as
 # Scenario
 I have completed the **Google Data Analytics Professional Certificate program** on Coursera. In this course, students learn in-demand skills that will make them job-ready in less than 6 months. Upon completion of this program, students are required to complete a data analysis case study to demonstrate the skills learned during this course. As a junior data analyst, I will follow the steps of the data analysis process as mentioned above and find out actionable insights for the stakeholders.
 
-# **``Ask``**
+# **``Ask``**:
 ### Develop Understanding:
 **Lily Moreno**, the director of marketing Cyclistic’s bike-share company wants to implement a new marketing strategy. She believes that rather than target new customers there is a very good chance to convert casual riders into members. Therefore, as a junior data analyst I am tasked with analyzing historical data of one year to identify trends such as.
 - **How Annual members and casual riders use Cyclistic bikes differently?**
@@ -77,7 +77,7 @@ While exploring the data, I found inconsistencies in a dataset, and what I obser
 - I dropped the unnecessary data that contained 14 variables.
 - To ensure data integrity and accuracy, I decided to exclude trips with negative values of less than one minute from the dataset as they are considered outliers.
 - Save the Cleaned data to the hard drive as a CSV file.
-# **``Analyze``**
+# **``Analyze``**:
 In this step I analyzed the cleaned and transformed data, to gain a better understanding of its characteristics and patterns. These insights helped me answer the stakeholder questions below.
 - **Question:  How do annual members and casual riders use Cyclistic bikes differently?**
 ### Total Trips Taken.
@@ -127,11 +127,11 @@ Annual members have an average trip distance of 2.04 kilometers per trip, wherea
 - Both Annual members and Casual members predominantly rode their bikes in the afternoon, with the peak time being 5 PM, and least at 3 AM and 4 AM respectively. 
 - Saturday emerged as the most popular weekday for both Annual and Casual members, indicating high bike usage. While Annual members showed consistent usage throughout the week with a slight increase on Wednesdays, Casual members demonstrated a similar pattern but with higher usage on weekends, particularly on Saturdays.
 - Summer (June – August) was the busiest season for both user types. Both road the most in August 2023, while least in the winter season (December – February) specifically in February 2023.
-# **``Share``**
+# **``Share``**:
 I have conducted data analysis and extracted valuable insights. To meet stakeholder requirements, I have developed effective data visualizations that connect objectives with the data, enabling compelling data storytelling. I have created a comprehensive dashboard that presents all the data in a unified view, empowering users to make well-informed decisions.
 ![Sample Image](./Images/Dashboard_101.png) 
 
-# **``Act``**
+# **``Act``**:
 The conclusion of the analysis involves deriving insights and recommending solutions based on the problem statement and results. It is not always the analyst who makes the final decision, but rather the role may involve facilitating stakeholders or higher management by providing recommendations informed by the findings. This enables data-driven decision-making at the organizational level. Following are some recommendations based on my analysis.
 ## Recommendations:
 1) Maximize ridership and engagement by implementing weekday discounts for casual riders, encouraging consistent bike-share usage throughout the week. Additionally, highlight the perks of our membership program, personalized to cater to riders' preferences and riding habits.
