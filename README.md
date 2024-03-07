@@ -50,7 +50,7 @@ This is public data that analysts can use to explore how different customer type
 The data used for this project consists of monthly csv files. The data consists in 12 months (January 2023 – December-2023) of historical trips in CSV files having 13 columns and 5,719,877 rows. Each csv file is contained  on 13 columns of data containing details such as ride ID, rider types, ride start and end time, start and end stations, etc. Columns name as ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, member_casual. The data is organized in a way that allows the data to be analyzed for meaningful results.
 
 Some points that provide a better context for understanding the data are as follows.
-- ### Credibility of Data.
+- ### Credibility of Data
 The data has been made available by Motivate International Inc. under this license (Data License Agreement | Divvy Bikes) The data is all-inclusive and consistent as it includes information on all rides taken by users.
 - ### Licensing, Privacy,  Security, and accessibility.
 The data used for this analysis has user identity protection as all identifying information has been removed and the data is made available under the license for analysis purposes.
@@ -59,9 +59,9 @@ The data used for this project meets the ROCC standards of integrity.
 The data available on (Index of bucket "divvy-tripdata"). It is considered reliable as it provides a comprehensive representation of user behavior. With a large sample size, it effectively reflects the overall population. The data is sourced from Motivate International Inc., making it possible to trace back to the primary source. It is presented in a comprehensive and understandable manner, encompassing relevant variables that capture essential trip information. The data is kept up-to-date with daily and monthly timestamps over one year, and it undergoes regular monthly updates by its owner.
 # **``Process``**:
 Given the large-scale nature of the dataset, Python was selected as the preferred tool for effective data preparation, cleaning, analysis, and visualization. This choice was made due to Python's extensive libraries, including Pandas, NumPy, Matplotlib, and Seaborn, which offer robust capabilities for handling big data. In contrast, tools like Microsoft Excel, R, and SQL have limitations, such as Excel's maximum capacity of 1,048,576 records, which was insufficient for the dataset containing over 5.8 million records.
-### Collecting  and Combining the Dataset.
+### Collecting  and Combining the Dataset
 I have organized the Cyclistic trip datasets for all 12 months into a single folder. Each CSV file has been thoroughly checked to ensure the accuracy and integrity of the dataset by verifying the column names. The files were then uploaded into individual vectors and merged into a consolidated data frame called "tripdata." This resulting data frame comprises 5,719,877 rows and 13 columns. 
-### Exploring the Data.
+### Exploring the Data
 While exploring the data, I found inconsistencies in a dataset, and what I observed are as follows:
 - To explore what the data looks like I used the head() function which displayed the top five rows of the data frame.
 - I checked the size of data frame. The data frame initially contained 74,358,401 data values which is very large.
@@ -69,7 +69,7 @@ While exploring the data, I found inconsistencies in a dataset, and what I obser
 - I checked the descriptive statistics of the data frame. Initially, I found only 4 numerical variables.
 - To get more information about the data I used the info() function. I found missing values and irrelevant data types.
 - I checked the duplicate values in the data frame. There were no duplicate values.
-### Cleaning the Data.
+### Cleaning the Data
 - After conducting a thorough analysis of the missing data, I  removed it from the dataset. A total of 1,388,739 rows, out of the original 5.7 million rows, were deleted due to missing values.
 - Data having a trip duration of less than 1 minute has been removed.
 - I conducted data transformation operations, which encompassed tasks such as typecasting and renaming variables, as required.
@@ -80,11 +80,11 @@ While exploring the data, I found inconsistencies in a dataset, and what I obser
 # **``Analyze``**:
 In this step I analyzed the cleaned and transformed data, to gain a better understanding of its characteristics and patterns. These insights helped me answer the stakeholder questions below.
 - **Question:  How do annual members and casual riders use Cyclistic bikes differently?**
-### Total Trips Taken.
+### Total Trips Taken
 <!-- [![alt text](101_Total_Trips_Taken-1.png)](101_Total_Trips_Taken.png) -->
 ![Sample Image](./Images/101_Total_Trips_Taken.png)
 In the year 2023, annual members accounted for 64.64% of the total trips, recording 2,799,608 trips. Meanwhile, casual members recorded 1,531,530 trips, representing 35.36% of the total trips taken.
-###  Usage of Bike Types.
+###  Usage of Bike Types
 ![Sample Image](./Images/102_Bike_Type_Used.png)
 In 2023, annual members accounted for 64.64% of the total trips, making 1,817,618 trips on Classic Bikes (41.97% of total) and 981,990 trips on Electric Bikes (22.67% of total trips). Annual members showed a preference for Classic Bikes over Electric Bikes. Casual members, on the other hand, preferred Classic Bikes as well, making 20.16% of the total trips (872,952 trips), followed by 13.45% of the trips on Electric Bikes (582,592 trips) and 1.76% of the trips on Docked Bikes (76,124 trips). It's worth noting that Docked Bikes were exclusively used by casual members.
 ### Hourly Trips
