@@ -35,7 +35,7 @@ I am also tasked to produce a report with the following deliverables.
 5.	A summary of analysis.
 6.	Top three recommendation based on analysis.
 ### Business Task:
-Plan marketing campaigns to convert casual riders into annual members.
+Plan marketing campaigns to convert casual members into annual members.
 ### Business Objective:
 The business objective of the case study is to discover opportunities for targeted marketing campaigns to convert casual riders into annual member. The objective can be achieved through analyzation of user’s bike trip data and understanding their usage behavior and preferences. The main goal is to increase profitability and drive future growth for the company.
 ### Stakeholders:
