@@ -1,4 +1,4 @@
-# **Google Data Analytics Capstone: Cyclistic Case Study** 
+# **Google Data Analytics Capstone Project (Unguided Project)** 
 ## Author:          Aftab Ahmad
 ## Date:            24 February, 2024
 ## Contact:         aftabajk@gmail.com
